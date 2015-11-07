@@ -24,65 +24,31 @@ http://82.135.224.134/udp/239.100.3.5:1234
 #EXTINF:-1, ITV 1
 http://82.135.224.134/udp/239.100.3.6:1234
 
-#EXTINF:-1, ITV 1
-http://37.187.248.101:8080/itv.stream/index.m3u8
-#EXTINF:-1, ITV 2
-http://37.187.248.101:8080/itv2.stream/index.m3u8
-#EXTINF:-1, ITV 3
-http://37.187.248.101:8080/itv3.stream/index.m3u8
-#EXTINF:-1, ITV 4
-http://37.187.248.101:8080/itv4.stream/index.m3u8
-
-#EXTINF:-1,Sky ARTRS 2
-http://188.227.189.18:8082/TV4250
-#EXTINF:-1,Sky Movies Action & Adventure
-http://188.227.189.18:8082/TV4245
-#EXTINF:-1,Sky Movies Comedy
-http://188.227.189.18:8082/TV4246
-#EXTINF:-1,Sky Movies Disney
-http://188.227.189.18:8082/TV4247
-#EXTINF:-1,Sky Movies Family
-http://188.227.189.18:8082/TV4248
-#EXTINF:-1,Sky Movies Premiere
-http://188.227.189.18:8082/TV4251
-#EXTINF:-1,Sky Movies Premiere+
-http://188.227.189.18:8082/TV4252
-#EXTINF:-1,Sky Movies SciFi
-http://188.227.189.18:8082/TV4249
-#EXTINF:-1,Sky Sky Movies Select
-http://188.227.189.18:8082/TV4254
-
-#EXTINF:-1, Sky 1
-http://alturl.com/4cztg
-#EXTINF:-1, Sky 2
-http://alturl.com/qq8pz
-#EXTINF:-1, Sky Drama Rom Movies
-http://alturl.com/2ysgi
-#EXTINF:-1, Sky Atlantic
-http://bit.do/bnQRj
-#EXTINF:-1, Sky Select Movies
-http://alturl.com/fkpd5
-#EXTINF:-1, Sky Action Movies
-http://alturl.com/8x8uk
-#EXTINF:-1, Sky Greats Movies
-http://alturl.com/6gcfu
-#EXTINF:-1, Sky Premiere Movies
-http://alturl.com/f2waa
-#EXTINF:-1, Sky Family Movies
-http://alturl.com/q2sdo
-#EXTINF:-1, Sky Thriller Movies
-http://alturl.com/p3diz
-#EXTINF:-1, Sky Movies Disney
-http://bit.do/bnQRQ
-#EXTINF:-1, Sky Comedy Movies
-http://alturl.com/jp3qr
-#EXTINF:-1, Sky ScFi Horror Movies
-http://alturl.com/7rw5z
-#EXTINF:-1, sky thriller
-http://alturl.com/p3diz
-#EXTINF:-1, sky premiere
-http://alturl.com/f2waa
-#EXTINF:-1, sky select
-http://alturl.com/fkpd5
+#EXTINF:-1,UK: E4 HD
+http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/OKJDJNBVYZE/137.ts
+#EXTINF:-1,UK: Discovery Science
+http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/OKJDJNBVYZE/115.ts
+#EXTINF:-1,UK: Discovery Investigation
+http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/OKJDJNBVYZE/116.ts
+#EXTINF:-1,UK: Discovery History
+http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/OKJDJNBVYZE/117.ts
+#EXTINF:-1,UK: Discovery HD
+http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/OKJDJNBVYZE/118.ts
+#EXTINF:-1,UK: Cartoon Network
+http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/OKJDJNBVYZE/119.ts
+#EXTINF:-1,UK: BTSports 2 HD
+http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/OKJDJNBVYZE/133.ts
+#EXTINF:-1,UK: BTSports 1 HD
+http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/OKJDJNBVYZE/134.ts
+#EXTINF:-1,UK: Box Nation HD
+http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/OKJDJNBVYZE/135.ts
+#EXTINF:-1,UK: BBC 4HD
+http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/OKJDJNBVYZE/120.ts
+#EXTINF:-1,UK: BBC 3HD
+http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/OKJDJNBVYZE/121.ts
+#EXTINF:-1,UK: BBC 2 HD
+http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/OKJDJNBVYZE/136.ts
+#EXTINF:-1,UK: BBC 1HD
+http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/OKJDJNBVYZE/122.ts
 
 
