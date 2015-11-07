@@ -1,15 +1,16 @@
-#EXTINF:-1, BBC1
-http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
-#EXTINF:-1, BBC2
-http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
-#EXTINF:0,BBC One
-http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/196.m3u8
-#EXTINF:0,BBC Two
-http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/197.m3u8
-#EXTINF:0,BBC Three
-http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/198.m3u8
-#EXTINF:0,BBC Four
-http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/199.m3u8
+#EXTM3U
+#EXTINF:-1,BBC One London
+http://82.135.224.134/udp/239.100.3.1:1234
+#EXTINF:-1,BBC One Scotland
+http://82.135.224.134/udp/239.100.3.2:1234
+#EXTINF:-1,BBC Two England
+http://82.135.224.134/udp/239.100.3.3:1234
+#EXTINF:-1,BBC 3
+http://82.135.224.134/udp/239.100.3.4:1234
+#EXTINF:-1,BBC 4
+http://82.135.224.134/udp/239.100.3.5:1234
+#EXTINF:-1,ITV 1 London
+http://82.135.224.134/udp/239.100.3.6:1234
 
 #EXTINF:-1,ITV 1
 http://82.135.224.134:80/udp/239.100.3.6:1234
@@ -17,73 +18,73 @@ http://82.135.224.134:80/udp/239.100.3.6:1234
 http://185.27.237.105:8082/TV0055
 #EXTINF:-1,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:0,ITV
+#EXTINF:-1,ITV
 http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/175.m3u8
-#EXTINF:0,ITV3
+#EXTINF:-1,ITV3
 http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/177.m3u8
-#EXTINF:0,ITV2
+#EXTINF:-1,ITV2
 http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/176.m3u8
-#EXTINF:0,ITV4
+#EXTINF:-1,ITV4
 http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/178.m3u8
-#EXTINF:-1, Channel 4
+#EXTINF:-1,Channel 4
 http://198.179.30.108/live/2.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe64a6144bd6452f35c672a6f5b1e14cad12f329b0e20f5ed97009e918be1e54d2ff9d69cd1875fb7da3b831812ca1b7e0c0621752f58c80751ac8ef0bab7ed67d7345bf0d71fda7cc06a28c0ca58d3ffa913ef6877100fb60d6e062894cd4cacbb1b2a741bd96c47cb5e1a799e368f70887872164d6d024e3788a9992618d613c8b77fdd22a7b3aeba948ff144a5e8627
-#EXTINF:-1, E4
+#EXTINF:-1,E4
 http://live304.edge.filmon.com/live/65.low.stream/playlist.m3u8?id=0ad5aac39bb13fbee93ef44a91315a0288cb74e7b2aae2a7278689f3856d3ac785d7f126cc88907d96ace187b95e5f84cf7477a5b4c7b18e8e886bca2cec950ea86a5397c41e6dcccc9ea0187a9a57b4ac76cfe51b3264b57fcdb62b01a30aa2cdb4619764b3b68c5c27b46ea817d32c0ac24243a9553bb88645e4ec2867e3831f6b5137679198dac603247a73f80e5ccaa86e6948595f81
-#EXTINF:-1, Cbbeebies / BBC 3
+#EXTINF:-1,Cbbeebies / BBC 3
 http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8 ITV1 
-#EXTINF:-1, Film 4
+#EXTINF:-1,Film 4
 http://78.129.175.72/live/film4/film4.m3u8
-#EXTINF:-1, Five
+#EXTINF:-1,Five
 http://198.179.30.108/live/22.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe18ad473691ff9736ccb307cd9fb41092cba419fc04e218a216f9f669ce4ffbbceadd6721f4335f98416ee190cef6239c5853ac468b1fedd1da7978085299891cd3369f153f45f03a6eb42bab0269237740cdc64f619db0f0178cf651441120c84adcf539733b3e48117044d6c15b428e2022ca0dacdf7e87c1f6d7ac3820dbdb1de6b26c863988e3f3083f09b2317007
-#EXTINF:-1, 5 usa
+#EXTINF:-1,5 usa
 http://198.179.30.110/live/845.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe3612080ed69c3ac8d7ca6458a5e9b14e24f165080377c37c9d417afb8370d6ffffa76e21cf6ebdb581e592898e0f54b40ea1900678e8d16e001dd721d6b216c27cec77a28077db8bd89ab326b34cf4c505511f657dd4258e03eb3fb2bd1d35417cfc943780864c56be01e25a13c7e4738fc46370616af0f7c146441cfd9a8e6a28acef21efed80f3703a697a190240c1
-#EXTINF:-1, 5*
+#EXTINF:-1,5*
 http://live300.edge.filmon.com/live/851.low.stream/playlist.m3u8?id=0ad5aac39bb13fbed32ca9e84fc504ec980c28eb323bcaeb482abbe9bdb2eb8d6c413567a0d08351c145c8377f4c530cb2f2b0dda020e7f64622c22dd46bb771045f0d9c0dd42c634f031533e82f2294b0b1a76b79d47e9dddc0cfb5bc7f6f0bcd49e85ca8c0dbd1832591bb778bd3b17b985623f89c300faad32d60ae0ba1669b00512de744a6d258e535ffcbfce51664fd3dc82a5b2678
-#EXTINF:0,sky1
+#EXTINF:-1,sky1
 http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/136.m3u8
-#EXTINF:0,sky2
+#EXTINF:-1,UK: Sky One HD
+http://top-iptv.zapto.org:8000/live/adem/adem/710.ts
+#EXTINF:-1,sky2
 http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/137.m3u8
-#EXTINF:0,Sky Atlantic HD
+#EXTINF:-1,UK: SKY 2
+http://top-iptv.zapto.org:8000/live/adem/adem/735.ts
+#EXTINF:-1,Sky Atlantic HD
 http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/132.m3u8
-#EXTINF:0,Comedy Xtra
+#EXTINF:-1,Comedy Xtra
 http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/135.m3u8
 #EXTINF:-1, Sky Arts
 http://185.56.30.127:8082/TV4250
-#EXTINF:1,Sky Movies Premiere 
+#EXTINF:-1,Sky Movies Premiere 
 http://91.109.20.227:8080/TV4251 
-#EXTINF:1,Sky Movies Premiere+ 
+#EXTINF:-1,Sky Movies Premiere+ 
 http://91.109.20.227:8080/TV4252 
-#EXTINF:1,Sky Movies Select 
+#EXTINF:-1,Sky Movies Select 
 http://91.109.20.227:8080/TV4254 
-#EXTINF:1,Sky Movies Action & Adventure 
+#EXTINF:-1,Sky Movies Action & Adventure 
 http://91.109.20.227:8080/TV4245 
-#EXTINF:1,Sky Movies Comedy 
+#EXTINF:-1,Sky Movies Comedy 
 http://91.109.20.227:8080/TV4246 
-#EXTINF:1,Sky Movies Disney 
+#EXTINF:-1,Sky Movies Disney 
 http://91.109.20.227:8080/TV4247 
-#EXTINF:1,Sky Movies Family 
+#EXTINF:-1,Sky Movies Family 
 http://91.109.20.227:8080/TV4248 
-#EXTINF:1,Sky Movies SciFi
+#EXTINF:-1,Sky Movies SciFi
 http://91.109.20.227:8080/TV4249
-#EXTINF:0,Sky Sports 1
-http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/98.m3u8
-#EXTINF:0,Sky Sports 2
-http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/97.m3u8
-#EXTINF:-1,SKY SPORTS 1
-http://apniapps.ddns.net:8080/sp1/sp0RT1/index.m3u8
-#EXTINF:-1,SKY SPORTS 2
-http://apniapps.ddns.net:8080/sp2/Msp2Two/index.m3u8
-#EXTINF:0,TCM +1 UK
-http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/142.m3u8
-#EXTINF:0,CBS Reality
+#EXTINF:-1,Premier sports
+http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/17.ts
+#EXTINF:-1,Sky sports 1
+http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/18.ts
+#EXTINF:-1,Sky sports 2
+http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/19.ts
+#EXTINF:-1,,CBS Reality
 http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/143.m3u8
-#EXTINF:0,Discovery Channel
+#EXTINF:-1,Discovery Channel
 http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/63.m3u8
-#EXTINF:0,Discovery +1
+#EXTINF:-1,Discovery +1
 http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/65.m3u8
-#EXTINF:0,Discovery History
+#EXTINF:-1,Discovery History
 http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/67.m3u8
-#EXTINF:0,Discovery Turbo
+#EXTINF:-1,Discovery Turbo
 http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/68.m3u8
-#EXTINF:0,Discovery Science
+#EXTINF:-1,Discovery Science
 http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/66.m3u8
