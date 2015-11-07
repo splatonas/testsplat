@@ -26,15 +26,15 @@ http://82.135.224.134/udp/239.100.3.6:1234
 
 #EXTINF:-1,  -- UK Live TV --  
 http://www.youtube.com/user/vdubt25
-#EXTINF:-1 tvg-id="BBC 1 London" tvg-logo="BBC One.png" group-title="UK Live TV", BBC 1 London
-http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
- 
-#EXTINF:-1 tvg-id="BBC 2 England"tvg-logo="BBC Two.png" group-title="UK Live TV", BBC 2 England
-http://bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
- 
-#EXTINF:-1 tvg-logo="ITV1.png" group-title="UK Live TV", ITV
-http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:itvone_desk_wifi.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="DMAX.png" group-title="UK Live TV", DMAX
-http://202.75.23.34/live/ch32/01.m3u8
 
+#EXTINF:-1 tvg-id="BBC 1 London" tvg-logo="BBC One.png" group-title="UK Live TV", BBC 1 London 
+http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
+
+#EXTINF:-1 tvg-id="BBC 2 England"tvg-logo="BBC Two.png" group-title="UK Live TV", BBC 2 England 
+http://bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
+
+#EXTINF:-1 tvg-logo="ITV1.png" group-title="UK Live TV", ITV 
+http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:itvone_desk_wifi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="UK Live TV", DMAX 
+http://202.75.23.34/live/ch32/01.m3u8
