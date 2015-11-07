@@ -1,0 +1,97 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]Updated 21/06/15 @ 16:53 [/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
+#EXTINF:-1, [COLOR green] --Uk Live Tv--[/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
+#EXTINF:-1, [COLOR green] --Free Collection of IPTV sports links--[/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
+#EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
+#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
+
+#EXTINF:-1, BBC One London
+http://82.135.224.134/udp/239.100.3.1:1234
+#EXTINF:-1, BBC One Scotland
+http://82.135.224.134/udp/239.100.3.2:1234
+#EXTINF:-1, BBC Two England
+http://82.135.224.134/udp/239.100.3.3:1234
+#EXTINF:-1, BBC 3
+http://82.135.224.134/udp/239.100.3.4:1234
+#EXTINF:-1, BBC 4
+http://82.135.224.134/udp/239.100.3.5:1234
+#EXTINF:-1, ITV 1 London
+http://82.135.224.134/udp/239.100.3.6:1234
+#EXTINF:0,BBC One1
+http://82.135.224.134:80/udp/239.100.3.1:1234
+#EXTINF:0,BBC One1 Scotland
+http://82.135.224.134:80/udp/239.100.3.2:1234
+
+#EXTINF:0,BBC Two2 England
+http://82.135.224.134:80/udp/239.100.3.3:1234
+#EXTINF:0,BBC Three3
+http://82.135.224.134:80/udp/239.100.3.4:1234
+
+#EXTINF:0,BBC Four4
+http://82.135.224.134:80/udp/239.100.3.5:1234
+#EXTINF:-1,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:0,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1,ITV 1
+http://82.135.224.134:80/udp/239.100.3.6:1234
+#EXTINF:0,ITV 1 London
+http://82.135.224.134:80/udp/239.100.3.6:1234
+#EXTINF:-1,Itv choice
+http://185.27.237.105:8082/TV0055
+
+#EXTINF:-1, Sky Arts
+http://176.53.21.99:8082/TV4250
+#EXTINF:1,Sky Movies Premiere 
+http://176.53.21.99:8080/TV4251 
+#EXTINF:1,Sky Movies Premiere+ 
+http://176.53.21.99:8080/TV4252 
+#EXTINF:1,Sky Movies Select 
+http://176.53.21.99:8080/TV4254 
+#EXTINF:1,Sky Movies Action & Adventure 
+http://176.53.21.99:8080/TV4245 
+#EXTINF:1,Sky Movies Comedy 
+http://176.53.21.99:8080/TV4246 
+#EXTINF:1,Sky Movies Disney 
+http://176.53.21.99:8080/TV4247 
+#EXTINF:1,Sky Movies Family 
+http://176.53.21.99:8080/TV4248 
+#EXTINF:1,Sky Movies Family 
+http://176.53.21.99:8080/TV4249
+
+#EXTINF:-1 tvg-shift=-1 tvg-id=”Sky Movies Greats HD” tvg-logo=”skygreats.png” group-title=”MOVIES”,[COLOR skyblue] Sky Movies Greats [/COLOR]
+http://185.27.237.105:8082/TV4240
+
+#EXTINF:-1,Movies 1
+http://176.53.21.99:8082/TV4246
+#EXTINF:-1,Movies 2
+http://176.53.21.99:8082/TV4249
+#EXTINF:-1,Movies 3
+http://176.53.21.99:8082/TV4251
+
+#EXTINF:1,Sky Movies Premiere 
+http://176.53.21.99:8082/TV4251
+#EXTINF:1,Sky Movies Premiere+ 
+http://176.53.21.99:8082/TV4252
+#EXTINF:1,Sky Sky Movies Select 
+http://176.53.21.99:8082/TV4254
+#EXTINF:1,Sky  Movies Action & Adventure 
+http://176.53.21.99:8082/TV4245
+#EXTINF:1,Sky Movies Comedy 
+http://176.53.21.99:8082/TV4246
+#EXTINF:1,Sky Movies Disney 
+http://176.53.21.99:8082/TV4247
+#EXTINF:1,Sky  Movies Family 
+http://176.53.21.99:8082/TV4248
+#EXTINF:1,Sky   Movies SciFi 
+http://176.53.21.99:8082/TV4249
+#EXTINF:-1,Comedy central[COLOR red]link_down[/COLOR]
+http://188.138.9.228:8022
+
+
