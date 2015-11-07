@@ -21,70 +21,14 @@ http://82.135.224.134/udp/239.100.3.3:1234
 http://82.135.224.134/udp/239.100.3.4:1234
 #EXTINF:-1, BBC 4
 http://82.135.224.134/udp/239.100.3.5:1234
-#EXTINF:-1, ITV 1 London
+#EXTINF:-1, ITV 1
 http://82.135.224.134/udp/239.100.3.6:1234
 
 #EXTINF:-1,ITV 1
-http://82.135.224.134:80/udp/239.100.3.6:1234
-#EXTINF:0,ITV 1 London
-http://82.135.224.134:80/udp/239.100.3.6:1234
-#EXTINF:-1,Itv choice
-http://185.27.237.105:8082/TV0055
-
-#EXTINF:-1,UK: ITV 2
-http://top-iptv.zapto.org:8000/live/adem/adem/644.ts
-#EXTINF:-1,UK: ITV 4
-http://top-iptv.zapto.org:8000/live/adem/adem/641.ts
-#EXTINF:-1,UK: SKY Movies Comedy HD
-http://top-iptv.zapto.org:8000/live/adem/adem/640.ts
-#EXTINF:-1,UK: ITV 3
-http://top-iptv.zapto.org:8000/live/adem/adem/643.ts
-#EXTINF:-1,uk:CBS Reality
-http://top-iptv.zapto.org:8000/live/adem/adem/646.ts
-#EXTINF:-1,UK: ITV 1
-http://top-iptv.zapto.org:8000/live/adem/adem/645.ts
-
-#EXTINF:-1,UK: TRUE ENTERTAINMENT
-http://top-iptv.zapto.org:8000/live/adem/adem/944.ts
-#EXTINF:-1,UK: TRUE DRAMA
-http://top-iptv.zapto.org:8000/live/adem/adem/943.ts
-#EXTINF:-1,UK: TCM
-http://top-iptv.zapto.org:8000/live/adem/adem/941.ts
-#EXTINF:-1,UK: SYFY 2
-http://top-iptv.zapto.org:8000/live/adem/adem/936.ts
-
-#EXTINF:-1,Sky ARTRS 2
-http://188.227.189.18:8082/TV4250
-#EXTINF:-1,Sky Movies Action & Adventure
-http://188.227.189.18:8082/TV4245
-#EXTINF:-1,Sky Movies Comedy
-http://188.227.189.18:8082/TV4246
-#EXTINF:-1,Sky Movies Disney
-http://188.227.189.18:8082/TV4247
-#EXTINF:-1,Sky Movies Family
-http://188.227.189.18:8082/TV4248
-#EXTINF:-1,Sky Movies Premiere
-http://188.227.189.18:8082/TV4251
-#EXTINF:-1,Sky Movies Premiere+
-http://188.227.189.18:8082/TV4252
-#EXTINF:-1,Sky Movies SciFi
-http://188.227.189.18:8082/TV4249
-#EXTINF:-1,Sky Sky Movies Select
-http://188.227.189.18:8082/TV4254
-
-#EXTINF:-1,UK: Sky One HD
-http://top-iptv.zapto.org:8000/live/adem/adem/710.ts
-#EXTINF:-1,UK: movies4
-http://top-iptv.zapto.org:8000/live/adem/adem/709.ts
-#EXTINF:-1,UK: Sky Movies SciFi
-http://top-iptv.zapto.org:8000/live/adem/adem/708.ts
-#EXTINF:-1,UK: Sky Movies Family HD
-http://top-iptv.zapto.org:8000/live/adem/adem/707.ts
-#EXTINF:-1,UK: SKY Movies Disney HD
-http://top-iptv.zapto.org:8000/live/adem/adem/648.ts
-#EXTINF:-1,UK: Sky Atlantic HD
-http://top-iptv.zapto.org:8000/live/adem/adem/753.ts
-#EXTINF:-1,UK: SKY 2
-http://top-iptv.zapto.org:8000/live/adem/adem/735.ts
-
-
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=2
+#EXTINF:-1,ITV 3
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=8
+#EXTINF:-1,ITV 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=9
+#EXTINF:-1,ITV Be
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=35
